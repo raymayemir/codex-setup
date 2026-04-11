@@ -1,0 +1,4 @@
+interface:
+  display_name: "Senior Frontend"
+  short_description: "Build and optimize production React/Next.js UI"
+  default_prompt: "Use $senior-frontend to implement or review this React/Next.js frontend task with performance-first best practices."

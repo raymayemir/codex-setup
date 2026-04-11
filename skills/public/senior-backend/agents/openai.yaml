@@ -1,0 +1,4 @@
+interface:
+  display_name: "Senior Backend"
+  short_description: "Build and harden production backend services"
+  default_prompt: "Use $senior-backend to implement, refactor, and review backend services with senior-level architecture and language-specific best practices."

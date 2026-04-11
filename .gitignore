@@ -1,0 +1,19 @@
+# Local Codex config and secret-bearing files
+config.toml
+*.local.toml
+*.secrets.toml
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.csr
+*.der
+*.kdbx
+
+# Local backups and OS noise
+*.bak
+.DS_Store
+**/.DS_Store
